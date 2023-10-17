@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="cosmic_latte">#F9FBE7</color>
+    <color name="han_purple">#5600E8</color>
+    <color name="argent">#C2BFBF</color>
+    <color name="raisin_black">#212121</color>
+    <color name="sonic_silver">#757575</color>
+
+
+
+
+    <!-- Primary Colors -->
+    <color name="primary_color">@color/cosmic_latte</color>
+    <color name="primary_dark_color">@color/cosmic_latte</color>
+    <color name="primary_light_color">@color/cosmic_latte</color>
+
+    <!-- Secondary Colors -->
+    <color name="secondary_color">@color/black</color>
+    <color name="accent_color">@color/argent</color>
+
+    <!-- Background Colors -->
+    <color name="background_color">@color/cosmic_latte</color>
+
+    <!-- Text Colors -->
+    <color name="primary_text_color">@color/raisin_black</color>
+    <color name="secondary_text_color">@color/sonic_silver</color>
+    <color name="text_on_accent_color">@color/white</color>
+
+    <!-- other colors-->
+    <color name="border_color">@color/argent</color>
+    <color name="icon_color">@color/black</color>
+</resources>
